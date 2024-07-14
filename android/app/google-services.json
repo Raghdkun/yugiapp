@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282862842921",
+    "project_id": "sharkniapp",
+    "storage_bucket": "sharkniapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282862842921:android:611e2fb8bd14f1d7025838",
+        "android_client_info": {
+          "package_name": "com.raghdkun.yugioh.yugiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282862842921-sb17puvff7muthavqqn821rhjhr0eplv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raghdkun.yugioh.yugiapp",
+            "certificate_hash": "63a160ed649fbd11a0809b9d024d04dee1b8410c"
+          }
+        },
+        {
+          "client_id": "282862842921-7hooo9sjorocpmrcpih9u82j0vntoomm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xOHZ_VqDpiGxmPPitnCL6nEno4k3B60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282862842921-7hooo9sjorocpmrcpih9u82j0vntoomm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
